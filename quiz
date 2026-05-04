@@ -1,0 +1,6 @@
+git init
+git add quizz.py
+git commit -m "Primeiro commit - quiz em Python"
+git branch -M main
+git remote add origin https://github.com/SEU-USUARIO/quiz-python.git
+git push -u origin main
